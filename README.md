@@ -52,11 +52,10 @@ The dataset includes the following fields:
 
 ## 📷 Dashboard Preview
 
-Click the link below to explore the interactive Power BI dashboard:
+🔗 [Click here to view the live Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=d4f9e1b5-410b-4c0e-9fa8-cac58592f3d7&autoAuth=true&ctid=84c31ca0-ac3b-4eae-ad11-519d80233e6f&actionBarEnabled=true&reportCopilotInEmbed=true)
 
-🔗 [View Live Dashboard on Power BI](https://app.powerbi.com/reportEmbed?reportId=d4f9e1b5-410b-4c0e-9fa8-cac58592f3d7&autoAuth=true&ctid=84c31ca0-ac3b-4eae-ad11-519d80233e6f&actionBarEnabled=true&reportCopilotInEmbed=true)
+![Dashboard Preview](https://github.com/FarhaKousar1601/Walmart-Sales-Data-Analysis/raw/main/dashboard%20walmart.jpg)
 
-![Dashboard Preview](https://github.com/FarhaKousar1601/Walmart-Sales-Data-Analysis/raw/main/dashboard-preview.jpg)
 
 
 ## 🏆 Certificate of Completion
