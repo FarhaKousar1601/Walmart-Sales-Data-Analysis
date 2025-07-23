@@ -58,9 +58,10 @@ The dataset includes the following fields:
 
 ## 🏆 Certificate of Completion
 
-Here is the certificate I received after successfully completing the workshop on **Walmart Sales Data Analysis** organized by **Jobaaj**.
+I received this certificate for successfully completing the **Walmart Sales Data Analysis** workshop using Power BI and Excel, organized by **Jobaaj**.
 
-![Certificate Preview](./certificate.jpg) <!-- replace with actual path or URL -->
+![Certificate Preview](https://github.com/FarhaKousar1601/Walmart-Sales-Data-Analysis/raw/main/jobaaj%20powerbi%20certificate.jpg)
+
 
 
 ## 🎓 Workshop
